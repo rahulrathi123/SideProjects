@@ -1,2 +1,2 @@
 # SideProjects
-Repository for random explorations that I do...
+Analogy solver project
